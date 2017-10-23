@@ -10,6 +10,13 @@
   * Bar Chart (descending order) for number of natural sources per category.
   
 ### 2. Molecular-space (Rudraksh)
+  * Number of sweet, sweet-like, bitter, and odor molecules. 
   * Number of different types of descriptors along with missing values in each.
-  * Plot distribution of each descriptor using appropriate plots.
+  * Plot distribution of each descriptor using appropriate viz.
   * Lower-dimensional visualization of molecules labelled by sweet-taste, sweet-like taste, bitter-taste and odor molecules
+  
+### 3. Entity-Molecular space (Apuroop)
+ * Histogram for number of molecules for each entity.
+ * Histogram for number of molecules for each category.
+ * Network (no matter how dense) showing all edges between entities.
+ * Lower-dimensional visualization of entities based on flavor sharing, color coded by categories.
