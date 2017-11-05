@@ -1,6 +1,6 @@
 ## A. Characterisation
 
-### 1. Entity-Space: *Done*
+### 1. Entity-Space:  &#10003;
   * Number of Entities, natural sources and categories.
   * Histogram depicting number of entities for each natural source.
   * Bar Chart (descending order) for number of entities per natural source.
