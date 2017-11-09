@@ -20,3 +20,14 @@
  * Histogram for number of molecules for each category.
  * Network (no matter how dense) showing all edges between entities.
  * Lower-dimensional visualization of entities based on flavor sharing, color coded by categories.
+ 
+ 
+ ## B. Drug-like molecules
+ * Lipinski's rule of 5.
+ * How are drug like molecules different? --> Odor and Taste.
+ 
+ ## C. FooDB Odor and FooDB Non Odor
+* Differences in distribution of properties.
+* Potential properties which may be responsible for odor.
+
+## D. Overrepresentation and under-representation of odor descriptors.
